@@ -1,6 +1,6 @@
 # 👋 Hola, soy Lautaro
 
-**Desarrollador full stack · Córdoba, Argentina 🇦🇷**
+**Desarrollador full stack**
 
 Trabajo construyendo sistemas web reales para empresas y equipos, desde el frontend hasta el backend, la base de datos y la infraestructura con Docker.
 
