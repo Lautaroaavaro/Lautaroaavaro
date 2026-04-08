@@ -28,12 +28,9 @@ Varios de mis proyectos son desarrollados junto a **3Byte**, mi emprendimiento p
 ## 🚀 Proyectos
 
 ### 📦 Movimientos Internos — Akron
-> 💼 Proyecto profesional · 🚀 3Byte
+> 💼 Proyecto profesional · 🚀 3Byte · 🐳 Dockerizado
 
 Sistema de gestión de movimientos internos desarrollado para Akron. Backend en Kotlin containerizado con Docker y orquestado con Docker Compose, frontend en Vue 3.
-
-- ⚙️ **Backend:** [movInternos_akron](https://github.com/Lautaroaavaro/movInternos_akron) — Kotlin · Docker · Gradle
-- 🎨 **Frontend:** [frontMovInternos_akron](https://github.com/Lautaroaavaro/frontMovInternos_akron) — Vue 3
 
 `Kotlin` `Docker` `Docker Compose` `Vue 3` `MySQL` `Gradle`
 
@@ -43,9 +40,6 @@ Sistema de gestión de movimientos internos desarrollado para Akron. Backend en 
 > 🚀 3Byte · 👥 Trabajo en equipo
 
 Sistema full stack para una peña de fútbol real. Gestión de socios, cuotas y beneficios con lógica de negocio real: altas/bajas, estados de cuota, beneficios automáticos según comportamiento de pago y autenticación con JWT.
-
-- 🎨 **Frontend:** [pe-a-boquense-front](https://github.com/EmirJussepp/pe-a-boquense-front) — Vue 3 · Pinia · JavaScript
-- ⚙️ **Backend:** [backend_penaboquense](https://github.com/Lautaroaavaro/backend_penaboquense/tree/emir-back) — Kotlin · Ktor · Exposed ORM · MySQL · JWT
 
 `Vue 3` `Kotlin` `Ktor` `MySQL` `JWT` `Pinia`
 
@@ -61,8 +55,5 @@ Sistema full stack para una peña de fútbol real. Gestión de socios, cuotas y 
 
 ## 📬 Contacto
 
-¿Tenés un proyecto o querés hablar de código? ¡Escribime!
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lautaro-avaro-0a4830252/)
 
-📍 Córdoba, Argentina
