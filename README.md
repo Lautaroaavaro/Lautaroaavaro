@@ -6,7 +6,6 @@ Trabajo construyendo sistemas web reales para empresas y equipos, desde el front
 
 Me enfoco en desarrollar aplicaciones funcionales, escalables y orientadas a resolver problemas concretos. Me gusta combinar lógica de negocio, desarrollo web y mejora de procesos para transformar necesidades reales en software útil.
 
-Varios de mis proyectos son desarrollados junto a **3Byte**, mi emprendimiento personal de desarrollo de software.
 
 ---
 
