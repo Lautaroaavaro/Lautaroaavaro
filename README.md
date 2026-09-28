@@ -28,7 +28,7 @@ Varios de mis proyectos son desarrollados junto a **3Byte**, mi emprendimiento p
 ## 🚀 Proyectos
 
 ### 📦 Movimientos Internos — Akron
-> 💼 Proyecto profesional · 🚀 3Byte · 🐳 Dockerizado
+> 💼 Proyecto profesional ·  🐳 Dockerizado
 
 Sistema de gestión de movimientos internos desarrollado para Akron. Backend en Kotlin containerizado con Docker y orquestado con Docker Compose, frontend en Vue 3.
 
